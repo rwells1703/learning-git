@@ -1,1 +1,6 @@
 MMMM CONCRETE MIX
+sand
+cement
+water
+air
+gravel
